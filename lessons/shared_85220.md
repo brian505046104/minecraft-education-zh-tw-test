@@ -289,5 +289,5 @@ player.onItemInteracted(BLAZE_ROD, function () {
 ```package
 core=*
 builder=*
-seymour=github:brian505046104/minecraft-education-zh-tw-test/extensions/seymour-1650f49ea004#v0.46-test1
+seymour=github:brian505046104/minecraft-education-zh-tw-test/extensions/seymour-1650f49ea004#v0.46-test2
 ```
