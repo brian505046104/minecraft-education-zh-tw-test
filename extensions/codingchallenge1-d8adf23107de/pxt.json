@@ -1,0 +1,20 @@
+{
+  "name": "CodingChallenge",
+  "version": "8.0.2",
+  "dependencies": {
+    "core": "*",
+    "builder": "*"
+  },
+  "files": [
+    "2/tutorials/custom.ts"
+  ],
+  "targetVersions": {
+    "target": "1.6.8",
+    "targetId": "minecraft"
+  },
+  "supportedTargets": [
+    "minecraft"
+  ],
+  "preferredEditor": "tsprj",
+  "testFiles": []
+}

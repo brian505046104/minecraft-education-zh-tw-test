@@ -1,0 +1,29 @@
+{
+  "name": "artemis-ts",
+  "version": "0.0.66",
+  "description": "",
+  "dependencies": {
+    "core": "*",
+    "builder": "*"
+  },
+  "files": [
+    "artemis.ts",
+    "generics.jres",
+    "FourDirectionArrows.jres",
+    "DockingObjective.jres",
+    "DockingRings.jres",
+    "CrewMealIngredients.jres",
+    "CrewMealAddIngredients.jres",
+    "RehydrationOptions.jres",
+    "IssHelpColors.jres"
+  ],
+  "testFiles": [],
+  "targetVersions": {
+    "target": "1.7.7",
+    "targetId": "minecraft"
+  },
+  "supportedTargets": [
+    "minecraft"
+  ],
+  "preferredEditor": "tsprj"
+}

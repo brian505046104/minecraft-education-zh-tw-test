@@ -1,0 +1,166 @@
+{
+  "status": "source_references_only_no_local_supplier_license_text_found",
+  "scope": "Existing local supplier repository snapshots and configured-source archives only; no new network retrieval.",
+  "license_files_copied": 0,
+  "notice": "Repository metadata and file references are evidence only. No license text or permission statement has been invented.",
+  "repositories": [
+    {
+      "repository": "CausewayDigital/Minecraft-EE-MakeCode",
+      "source_url": "https://github.com/CausewayDigital/Minecraft-EE-MakeCode",
+      "snapshot_tree_sha": "fae34b2b4137cbfd6eb3a92da5f248e2589fc5a3",
+      "license_text_locally_available": false,
+      "license_metadata": null,
+      "known_license_blob_references": [],
+      "embedded_extension_revisions": [
+        {
+          "original_spec": "github:CausewayDigital/Minecraft-EE-MakeCode",
+          "commit_sha": "fae34b2b4137cbfd6eb3a92da5f248e2589fc5a3",
+          "source_url": "https://github.com/CausewayDigital/Minecraft-EE-MakeCode/tree/fae34b2b4137cbfd6eb3a92da5f248e2589fc5a3"
+        }
+      ]
+    },
+    {
+      "repository": "CausewayDigital/Minecraft-EE-Python-Islands",
+      "source_url": "https://github.com/CausewayDigital/Minecraft-EE-Python-Islands",
+      "snapshot_tree_sha": "8b45b5926440dbc62f175479d6a8ed8fd5aa4fbb",
+      "license_text_locally_available": false,
+      "license_metadata": null,
+      "known_license_blob_references": []
+    },
+    {
+      "repository": "Cleverlike-Studios/CodingChallenge1",
+      "source_url": "https://github.com/Cleverlike-Studios/CodingChallenge1",
+      "snapshot_tree_sha": "5ddde3ec058caddcd67450b9b692adf4c4c30d7d",
+      "license_text_locally_available": false,
+      "license_metadata": {
+        "key": "apache-2.0",
+        "name": "Apache License 2.0",
+        "spdx_id": "Apache-2.0",
+        "url": "https://api.github.com/licenses/apache-2.0"
+      },
+      "known_license_blob_references": [
+        {
+          "path": "LICENSE",
+          "git_blob_sha": "261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64",
+          "source_url": "https://api.github.com/repos/Cleverlike-Studios/CodingChallenge1/git/blobs/261eeb9e9f8b2b4b0d119366dda99c6fd7d35c64"
+        }
+      ]
+    },
+    {
+      "repository": "fountainstudios/AIMakecodeMarkdown",
+      "source_url": "https://github.com/fountainstudios/AIMakecodeMarkdown",
+      "snapshot_tree_sha": "b232c54fc55945f3f05ff4758aaf11721040daf2",
+      "license_text_locally_available": false,
+      "license_metadata": null,
+      "known_license_blob_references": []
+    },
+    {
+      "repository": "Mojang/EducationContent",
+      "source_url": "https://github.com/Mojang/EducationContent",
+      "snapshot_tree_sha": "d6f2043b27dfd6bf4abdcc01e1c58cd280f3cf41",
+      "license_text_locally_available": false,
+      "license_metadata": null,
+      "known_license_blob_references": []
+    },
+    {
+      "repository": "ReWrite-Media/artemis-md",
+      "source_url": "https://github.com/ReWrite-Media/artemis-md",
+      "snapshot_tree_sha": "084ea5dbd368d766f82e1a5849ae0b2d044c1741",
+      "license_text_locally_available": false,
+      "license_metadata": null,
+      "known_license_blob_references": []
+    },
+    {
+      "repository": "ReWrite-Media/harvest_fest-md",
+      "source_url": "https://github.com/ReWrite-Media/harvest_fest-md",
+      "snapshot_tree_sha": "3f437be1347b650a0cdafa359f4ae08b81314b54",
+      "license_text_locally_available": false,
+      "license_metadata": null,
+      "known_license_blob_references": []
+    },
+    {
+      "repository": "ReWrite-Media/mayan-mystery-md",
+      "source_url": "https://github.com/ReWrite-Media/mayan-mystery-md",
+      "snapshot_tree_sha": "863448d55843bcaceaf3d757ba63654a547c6722",
+      "license_text_locally_available": false,
+      "license_metadata": null,
+      "known_license_blob_references": []
+    },
+    {
+      "repository": "ReWrite-Media/artemis-ts",
+      "source_url": "https://github.com/ReWrite-Media/artemis-ts",
+      "license_text_locally_available": false,
+      "license_metadata": null,
+      "known_license_blob_references": [],
+      "embedded_extension_revisions": [
+        {
+          "original_spec": "github:ReWrite-Media/artemis-ts#v0.0.66",
+          "commit_sha": "4c0307b157faddceb31d4265dceeab25b1079164",
+          "source_url": "https://github.com/ReWrite-Media/artemis-ts/tree/4c0307b157faddceb31d4265dceeab25b1079164"
+        }
+      ]
+    },
+    {
+      "repository": "ReWrite-Media/mayan-mystery-ts",
+      "source_url": "https://github.com/ReWrite-Media/mayan-mystery-ts",
+      "license_text_locally_available": false,
+      "license_metadata": null,
+      "known_license_blob_references": [],
+      "embedded_extension_revisions": [
+        {
+          "original_spec": "github:ReWrite-Media/mayan-mystery-ts",
+          "commit_sha": "057b6e5155605ee65020a4a1d99d0f5b88996153",
+          "source_url": "https://github.com/ReWrite-Media/mayan-mystery-ts/tree/057b6e5155605ee65020a4a1d99d0f5b88996153"
+        }
+      ]
+    },
+    {
+      "repository": "causewaydigital/pxt-causeway-digital-extension",
+      "source_url": "https://github.com/causewaydigital/pxt-causeway-digital-extension",
+      "license_text_locally_available": false,
+      "license_metadata": null,
+      "known_license_blob_references": [],
+      "embedded_extension_revisions": [
+        {
+          "original_spec": "github:causewaydigital/pxt-causeway-digital-extension",
+          "commit_sha": "4260af9a876a10f4189545cf573cfae73d2e9b8a",
+          "source_url": "https://github.com/causewaydigital/pxt-causeway-digital-extension/tree/4260af9a876a10f4189545cf573cfae73d2e9b8a"
+        },
+        {
+          "original_spec": "github:causewaydigital/pxt-causeway-digital-extension#cyber-kingdom",
+          "commit_sha": "9d9b81284b518f7c35eb3138fee5b1e233331891",
+          "source_url": "https://github.com/causewaydigital/pxt-causeway-digital-extension/tree/9d9b81284b518f7c35eb3138fee5b1e233331891"
+        }
+      ]
+    },
+    {
+      "repository": "fountainstudios/AICustomBlocks",
+      "source_url": "https://github.com/fountainstudios/AICustomBlocks",
+      "license_text_locally_available": false,
+      "license_metadata": null,
+      "known_license_blob_references": [],
+      "embedded_extension_revisions": [
+        {
+          "original_spec": "github:fountainstudios/AICustomBlocks",
+          "commit_sha": "67d590b827379a35d47b2386af501764795430a6",
+          "source_url": "https://github.com/fountainstudios/AICustomBlocks/tree/67d590b827379a35d47b2386af501764795430a6"
+        }
+      ]
+    },
+    {
+      "repository": "gbaman/minecraft-ee-seymour-island",
+      "source_url": "https://github.com/gbaman/minecraft-ee-seymour-island",
+      "license_text_locally_available": false,
+      "license_metadata": null,
+      "known_license_blob_references": [],
+      "embedded_extension_revisions": [
+        {
+          "original_spec": "github:gbaman/minecraft-ee-seymour-island",
+          "commit_sha": "fdb5baf407ba8f446101b94743e138bb6ef74ae7",
+          "source_url": "https://github.com/gbaman/minecraft-ee-seymour-island/tree/fdb5baf407ba8f446101b94743e138bb6ef74ae7"
+        }
+      ]
+    }
+  ],
+  "lesson_original_urls": "../url_map.json"
+}
